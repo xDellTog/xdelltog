@@ -29,12 +29,12 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img title="Typescript" height="32"  alt="ts"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img title="NodeJS" height="32"  alt="nodejs"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="PHP" height="32"  alt="php"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img title="Angular" height="32"  alt="angular"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img title="PHP" height="32"  alt="php"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img title="NodeJS" height="32"  alt="nodejs"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img title="MySQL" height="32"  alt="mysql"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
