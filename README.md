@@ -1,11 +1,15 @@
 ## Hi there, I'm Daniel! 👋🏼
 
-[//]: # ([![xDellTog's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&#41;]&#40;https://github.com/xdelltog&#41;)
+[![xDellTog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&theme=light#gh-light-mode-only)](https://github.com/xdelltog)
+[![xDellTog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&theme=dracula#gh-dark-mode-only)](https://github.com/xdelltog)
 
-<div style="display: flex; align-items: center;">
-    <img title="xDellTog's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true#gh-light-mode-only" alt="stats-light">
-    <img title="xDellTog's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&theme=dark#gh-dark-mode-only" alt="stats-dark">
-</div>
+[//]: # (<div style="display: flex; align-items: center;">)
+
+[//]: # (    <img title="xDellTog's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true#gh-light-mode-only" alt="stats-light">)
+
+[//]: # (    <img title="xDellTog's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&theme=dark#gh-dark-mode-only" alt="stats-dark">)
+
+[//]: # (</div>)
 
 ### Objectives:
 
