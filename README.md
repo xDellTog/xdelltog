@@ -41,14 +41,14 @@
 
 ### Tools:
 <div style="display: flex; align-items: center;">
-  <img title="postman" height="32"  alt="postman"
-       src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
+  <img title="Postman" height="32"  alt="postman"
+       src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/postman.png">
   <img title="git" height="32"  alt="git"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img title="slack" height="32"  alt="slack"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
-  <img title="trello" height="32"  alt="trello"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+  <img title="Discord" height="32"  alt="discord"
+       src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/discord.png">
+  <img title="MeisterTask" height="32"  alt="meister_task"
+       src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/task.webp">
 </div>
 
 ### Personal info:
