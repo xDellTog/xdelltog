@@ -1,6 +1,11 @@
 ## Hi there, I'm Daniel! 👋🏼
 
-[![xDellTog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true)](https://github.com/xdelltog)
+[//]: # ([![xDellTog's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&#41;]&#40;https://github.com/xdelltog&#41;)
+
+<div style="display: flex; align-items: center;">
+    <img title="xDellTog's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true#gh-light-mode-only" alt="stats-light">
+    <img title="xDellTog's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&theme=dark#gh-dark-mode-only" alt="stats-dark">
+</div>
 
 ### Objectives:
 
@@ -18,13 +23,13 @@
     <img title="VSCode" height="24"  alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </a>
   <a style="margin-right: 4px; display: flex; background: white; border-radius: 4px; padding: 4px;" href="https://www.adobe.com/products/xd.html">
-    <img title="Adobe XD" height="24"  alt="xd" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/xd.svg">
+    <img title="Adobe XD" height="24"  alt="xd" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/xd.png">
   </a>
   <a style="margin-right: 4px; display: flex; background: white; border-radius: 4px; padding: 4px;" href="https://www.adobe.com/products/illustrator.html">
-    <img title="Adobe Illustrator" height="24"  alt="illustrator" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/illustrator.svg">
+    <img title="Adobe Illustrator" height="24"  alt="illustrator" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/illustrator.png">
   </a>
   <a style="margin-right: 4px; display: flex; background: white; border-radius: 4px; padding: 4px;" href="https://www.adobe.com/products/photoshop.html">
-    <img title="Adobe Photoshop" height="24"  alt="photoshop" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/photoshop.svg">
+    <img title="Adobe Photoshop" height="24"  alt="photoshop" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/photoshop.png">
   </a>
 </div>
 
