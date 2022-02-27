@@ -18,13 +18,13 @@
     <img title="VSCode" height="24"  alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </a>
   <a style="margin-right: 4px; display: flex; background: white; border-radius: 4px; padding: 4px;" href="https://www.adobe.com/products/xd.html">
-    <img title="Adobe XD" height="24"  alt="adobexd" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/xd.svg">
+    <img title="Adobe XD" height="24"  alt="xd" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/xd.svg">
   </a>
   <a style="margin-right: 4px; display: flex; background: white; border-radius: 4px; padding: 4px;" href="https://www.adobe.com/products/illustrator.html">
-    <img title="Adobe Illustrator" height="24"  alt="adobeillustrator" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg">
+    <img title="Adobe Illustrator" height="24"  alt="illustrator" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/illustrator.svg">
   </a>
   <a style="margin-right: 4px; display: flex; background: white; border-radius: 4px; padding: 4px;" href="https://www.adobe.com/products/photoshop.html">
-    <img title="Adobe Photoshop" height="24"  alt="adobephotoshop" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg">
+    <img title="Adobe Photoshop" height="24"  alt="photoshop" src="https://raw.githubusercontent.com/xDellTog/xdelltog/main/icons/photoshop.svg">
   </a>
 </div>
 
