@@ -1,7 +1,5 @@
 ## Hi there, I'm Daniel! 👋🏼
 
-[![xDellTog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdelltog&count_private=true&show_icons=true&hide=stars,prs,issues&include_all_commits=true&theme=light)](https://github.com/xdelltog)
-
 ### Objectives:
 
 💻 Work with Front-end Development <br>
