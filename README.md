@@ -1,6 +1,6 @@
 ## Hi there, I'm Dan Tognon! 👋🏼
 
-### About:
+### About
 
 Front-end developer with more than 4 years of experience, working on more than 10 systems. Extensive knowledge of reactive frameworks, backend and APIs, servers, desktop and mobile applications.\
 The main objective is personal growth, focusing more and more on studying future technologies and agile methodologies.
@@ -40,6 +40,7 @@ Highlights in previous works:
 
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Xcode](https://img.shields.io/badge/-Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=FFFFFF)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 
