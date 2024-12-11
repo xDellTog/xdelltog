@@ -44,13 +44,10 @@ Highlights in previous works:
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 
-<br />
+<!-- 
 
 [![xdelltog](https://github-readme-stats.vercel.app/api?username=xdelltog&theme=dracula&show_icons=true)](https://github.com/xdelltog)
 
-<br />
-
-<!-- 
 ### Softwares:
 
 <div style="display: flex; align-items: center;">
